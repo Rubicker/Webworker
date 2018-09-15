@@ -1,2 +1,0 @@
-# Webworker
-Created with CodeSandbox
